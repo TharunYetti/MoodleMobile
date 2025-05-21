@@ -1,14 +1,14 @@
 /* Change icon color globally */
 .s-ion-icon, .ion-icon {
-  color: #0000FF !important; /* Use !important if your changes are not taking effect */
+  color: #0000FF ; /* Use !important if your changes are not taking effect */
 }
 
 /* Change label color for Android (md) and iOS */
 .sc-ion-label-md, .sc-ion-label-ios {
-  color: #0000FF !important;
+  color: #0000FF ;
 }
 
 /* Change button text color */
 .button-inner {
-  color: #0000FF !important;
+  color: #0000FF ;
 }
