@@ -10,7 +10,19 @@
 
 /* Change button text color */
 .button-inner {
-  background-color: #0000FF ;
+    left: 0px;
+    right: 10px;
+    top: 0px;
+    display: flex;
+    position: absolute;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    z-index: 1;
+    flex-flow: row;
+    background-color: #0000FF ;
+    transition: transform 300ms ease-in-out, opacity, -webkit-transform;
 }
 
 .icon-inner {
