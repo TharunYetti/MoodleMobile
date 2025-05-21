@@ -10,5 +10,13 @@
 
 /* Change button text color */
 .button-inner {
-  color: #0000FF ;
+  background-color: #0000FF ;
+}
+
+.icon-inner {
+  height: 200%
+}
+
+.button-native{
+  color: #FFFFFF
 }
